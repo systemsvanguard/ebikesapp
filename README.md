@@ -1,5 +1,5 @@
 # ebikesapp  |  🏍️   EV Sport MotorBikes App
-A blog on the fastest production elecrtric motorbikes in the world currently.  Built as a front-end portfolio coding project, using React, Typescript, axios, Bootstrap version 5 CSS framework, Bootstrap Icons, and consumes a PHP and MySQL based REST API backend. (The backend project can be found here ). Enoy!
+A blog on the fastest production elecrtric motorbikes in the world currently.  Built as a front-end portfolio coding project, using React, Typescript, axios, Bootstrap version 5 CSS framework, Bootstrap Icons, and consumes a PHP and MySQL based REST API backend. (The backend project can be found here ). Enjoy!
 
 https://ebikesapp.ryanhunter.ca/images/screens/screens_01_ebikesapp.webp
 
