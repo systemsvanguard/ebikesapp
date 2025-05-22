@@ -7,6 +7,8 @@ https://ebikesapp.ryanhunter.ca/images/screens/screens_01_ebikesapp.webp
 Live **Site Demo** ~ [The Fastest Electric Sports MotorBikes](https://ebikesapp.ryanhunter.ca/)  🏍️ 
 
 ![Screenshot of Front Page](https://ebikesapp.ryanhunter.ca/images/screens/screens_01_ebikesapp.webp) 
+
+
 React and TypeScript based front-end app showing the world's fastest production motorcycles currently. Pulls data from a PHP and MySQL based REST API backend also hosted in this GitHub as 'ebikesAPI'. Enjoy!
 ![EV Sport Bikes Screenshot](public/images/screens/screens_01_ebikesapp.webp) 
 
